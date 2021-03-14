@@ -1,0 +1,25 @@
+/* Add here all your CSS customizations */
+
+
+#contact {
+    text-align: center;
+}
+
+@font-face {
+    font-family: 'young';
+    src: url(css/fonts/Young.ttf);
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Hall Fetica Wide';
+    src: url(css/fonts/Hall Fetica Wide.ttf);
+    font-style: normal;
+    font-weight: 400;
+}
+
+#services, #about {
+	min-height: 100vh;
+    min-height: -webkit-fill-available;
+}
