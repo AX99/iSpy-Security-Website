@@ -14,7 +14,7 @@
 
 @font-face {
     font-family: 'Hall Fetica Wide';
-    src: url(css/fonts/Hall Fetica Wide.ttf);
+    src: url('./fonts/Hall Fetica Wide.ttf');
     font-style: normal;
     font-weight: 400;
 }
